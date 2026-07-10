@@ -19,7 +19,7 @@ function Team() {
       image: Fawwaz,
       name: "AKINWALE FAWWAZ",
       role: "UI/UX DESIGNER",
-      bio: "..........",
+      bio: "I Am  Akinwale fawwaz,I am in potters private school, Iam in science depertment, I handeld the about us page ",
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
@@ -27,7 +27,7 @@ function Team() {
       image: Obaloluwa,
       name: "OGUNBOWALE OBALOLUWA",
       role: "UI/UX DESIGNER",
-      bio: "..........",
+      bio: "My name is Obaloluwa,I'm a student of Potters Private School,I am in Science Department,I handled the Hero section and navbar with my colleagues",
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
@@ -35,7 +35,7 @@ function Team() {
       image: Adeoluwaju,
       name: "ADEDIJI ADEOLUWAJU",
       role: "UI/UX DESIGNER",
-      bio: "..........",
+      bio: "My name I Adediji Adeoluwaju,I Am In sss1, I Am In Science Department. I Handled The Hero Sectiom And Navbar",
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
@@ -43,7 +43,7 @@ function Team() {
       image: Muizz,
       name: "ADENIYI ABDUL MUIZZ",
       role: "UI/UX DESIGNER",
-      bio: "..........",
+      bio: "My name is adeniyi abdul muizz, I am a student of potters private school, I am in science department, I handled the about us page with my colleagues",
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
@@ -51,7 +51,7 @@ function Team() {
       image: Zeenat,
       name: "ODERINDE ZEENAT",
       role: "UI/UX DESIGNER",
-      bio: "..........",
+      bio: "My name is Oderinde Zeenat, I am a student of Potters Private School. I handled the Hero section and navbar with my colleagues.",
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
