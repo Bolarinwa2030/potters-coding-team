@@ -51,11 +51,7 @@ function Team() {
       image: Zeenat,
       name: "ODERINDE ZEENAT",
       role: "UI/UX DESIGNER",
-<<<<<<< HEAD
       bio: "My name is Oderinde Zeenat, I am a student of Potters Private School. I handled the Hero section and navbar with my colleagues.",
-=======
-      bio: "MY NAME IS ODERINDE ZEENAT 'I AM IN JSS2.MY BEST COLOUR IS PINK 'MY BEST FOOD IS RICE AND BEANS",
->>>>>>> c5e0ebe7f71f8476b922b6cf94f1b5ef9c1856da
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
