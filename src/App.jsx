@@ -2,6 +2,9 @@ import NavBar from "./components/Navbar";
 import Hero from "./components/Hero";
 import AboutUs from "./components/AboutUs";
 import Team from "./components/Team";
+import Footer from "./components/Footer";
+import Copyright from "./components/Copyright";
+
 
 function App() {
   return (
@@ -10,6 +13,9 @@ function App() {
       <Hero />
       <AboutUs />
       <Team/>
+      <Footer/>
+      <Copyright/>
+
     </div>
   );
 }

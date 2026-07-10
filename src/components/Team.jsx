@@ -51,7 +51,7 @@ function Team() {
       image: Zeenat,
       name: "ODERINDE ZEENAT",
       role: "UI/UX DESIGNER",
-      bio: "..........",
+      bio: "MY NAME IS ODERINDE ZEENAT 'I AM IN JSS2.MY BEST COLOUR IS PINK 'MY BEST FOOD IS RICE AND BEANS",
       skills: ["HTML", "CSS", "React", "UI/UX"],
     },
 
