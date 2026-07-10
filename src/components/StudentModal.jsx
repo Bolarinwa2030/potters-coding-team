@@ -1,7 +1,7 @@
 import React from "react";
 
-import Fawwaz from "../assets/fawwaz.png";
-import Obaloluwa from "../assets/obaloluwa.png";
+import Fawwaz from "../assets/Fawwaz.png";
+import Obaloluwa from "../assets/Obaloluwa.png";
 import Adeoluwaju from "../assets/adeoluwaju.png";
 import Muizz from "../assets/muizz.png";
 import Zeenat from "../assets/zeenat.png";
