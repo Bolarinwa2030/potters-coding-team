@@ -14,7 +14,6 @@ function App() {
       <AboutUs />
       <Team/>
       <Footer/>
-      <Copyright/>
 
     </div>
   );
