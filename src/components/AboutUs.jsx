@@ -3,7 +3,7 @@ import Logo from "../assets/Potter_logo.png"
 
 function AboutUs (){
     return(
-        <section className="bg-red-600 min-h-screen text-white py-20">
+        <section className="bg-red-600 text-white py-20">
             <div className="max-w-7xl mx-auto px-10 grid md:grid-cols-2 gap-16 items-center">
                 <div className="flex justify-center">
                     <img src={Logo} alt="School Logo" className="w-[350px] rounded-lg shadow-lg"  />
