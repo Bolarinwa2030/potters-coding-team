@@ -15,7 +15,7 @@ function StudentModal({ member, onClose }) {
     // Dark Background Overlay
     <div className="fixed inset-0 bg-black/70 flex items-center justify-center z-50">
       {/* Modal Container */}
-      <div className="bg-white w-[90%] max-w-5xl rounded-xl shadow-2xl relative overflow-hidden">
+      <div className="bg-white w-[95%] max-w-5xl max-h-[90vh] rounded-xl shadow-2xl relative overflow-y-auto">
         {/* Close Button */}
         <button
           onClick={onClose}
